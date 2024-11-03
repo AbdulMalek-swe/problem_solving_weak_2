@@ -14,6 +14,7 @@ int main() {
        cin>>d;
        v.push_back(d);
    }
+   
    for(auto value:v){
        if(value!=k){
            cout<<value<<" ";
